@@ -7,7 +7,7 @@
 
 ## 1. How to run
 
->First, run 'mnist/wrtie_data_mnist.py' to write the data for train\val\test into 'dataset/mnist' 
+>First, run 'mnist/wrtie_data_mnist.py' to write the data for 'train\val\test' into 'dataset/mnist' 
 >
 >Then, run 'mnist/full_recon_classify.py' on Noisy Mnist dataset for classificaation;
 >
