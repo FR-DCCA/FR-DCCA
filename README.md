@@ -4,13 +4,6 @@
 >
 > We have published a reproducible demo and one dataset here.
 >
-> Our main difference：
->
-> ![image](https://github.com/FR-DCCA/FR-DCCA/blob/main/models/difference.png)
->
-> FR-DCCA framwork：
->
-> ![image](https://github.com/FR-DCCA/FR-DCCA/blob/main/models/FR-DCCA.png)
 
 ## 1. How to run
 
