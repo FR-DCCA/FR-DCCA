@@ -11,7 +11,7 @@
 >
 >Then, run 'mnist/full_recon_classify.py' on Noisy Mnist dataset for classificaation;
 >
->run 'mnist/full_recon_cluster.py' on Noisy Mnist dataset for cluster.
+>run 'mnist/full_recon_cluster.py' on Noisy Mnist dataset for clustering.
 >
 
 ## 2. Data Availablity
